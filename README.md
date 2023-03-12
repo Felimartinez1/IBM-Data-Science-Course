@@ -1,9 +1,9 @@
-# SpaceX Falcon-9 Success Landing Prediction
+## SpaceX Falcon-9 Success Landing Prediction
 
-Predict if SpaceX Falcon 9 first stage will land successfully after rocket launch.
+# Predict if SpaceX Falcon 9 first stage will land successfully after rocket launch.
 In this capstone, we will predict if the Falcon 9 first stage will land successfully. SpaceX advertises Falcon 9 rocket launches on its website, with a cost of 62 million dollars; other providers cost upward of 165 million dollars each, much of the savings is because SpaceX can reuse the first stage. Therefore if we can determine if the first stage will land, we can determine the cost of a launch. This information can be used if an alternate company wants to bid against SpaceX for a rocket launch.
 
-Data collection with Webscraping and Data wrangling
+# Data collection with Webscraping and Data wrangling
 Objectives
 Write Python code to manipulate data in a Pandas data frame.
 
@@ -15,7 +15,7 @@ Use data science methodologies to define and formulate a real-world business pro
 
 Use your data analysis tools to load a dataset, clean it, and find out interesting insights from it.
 
-Exploratory Data Analysis (EDA)
+# Exploratory Data Analysis (EDA)
 Make use a RESTful API and web scraping. Convert the data into a dataframe and then perform some data wrangling.
 
 Objectives
@@ -27,7 +27,7 @@ Write and execute SQL queries to select and sort data
 
 Use your data visualization skills to visualize the data and extract meaningful patterns to guide the modeling process.
 
-Interactive Visual Analytics and Dashboards
+# Interactive Visual Analytics and Dashboards
 Build a dashboard to analyze launch records interactively with Plotly Dash as well as build an interactive map to analyze the launch site proximity with Folium python Library.
 
 Objectives
@@ -41,7 +41,7 @@ Build a dashboard to analyze launch records interactively with Plotly Dash.
 
 Build an interactive map to analyze the launch site proximity with Folium.
 
-Predictive Analysis(Classification)
+# Predictive Analysis(Classification)
 In this module, we'll use machine learning to determine if the first stage of Falcon 9 will land successfully. Data will be split into training data and test data to find the best Hyperparameter for SVM, Classification Trees, and Logistic Regression. Then find the method that performs best using test data.
 
 Objectives
